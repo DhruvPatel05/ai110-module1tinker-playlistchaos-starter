@@ -36,6 +36,7 @@ struct SettingsView: View {
             Text("Where can you find \nperfect tracks")
                 .font(.title2)
                 .fontWeight(.heavy)
+            Text("The hike which looks")
             
             // MARK: - SECTION Icons
             
